@@ -1,6 +1,7 @@
 {
-  "name": "larp",
-  "version": "1.0.0",
-  "description": "Plugin",
-  "main": "index.js"
+  "name": "Larp",
+  "description": "Client-side profile spoofing (badges, username, account date)",
+  "authors": [{ "name": "your-name", "id": "0" }],
+  "main": "index.js",
+  "version": "11.1.5"
 }
