@@ -1,7 +1,7 @@
 {
   "name": "Larp",
   "description": "Client-side profile spoofing (badges, username, account date)",
-  "authors": [{ "name": "your-name", "id": "0" }],
+  "authors": [{ "name": "your-name", "id": "1" }],
   "main": "index.js",
   "version": "11.1.5"
 }
