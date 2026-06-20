@@ -1,1 +1,6 @@
-
+{
+  "name": "larp",
+  "version": "1.0.0",
+  "description": "Plugin",
+  "main": "index.js"
+}
